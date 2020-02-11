@@ -1,0 +1,14 @@
+castana:3
+ciruela:1,25
+fresa:2,5
+granada:2
+kiwi:3
+mandarina:1,5
+manzana:1,5
+naranja:1
+nueces:5
+peras:2
+piña:3
+platanos:2
+pomelos:3,5
+uvas:2

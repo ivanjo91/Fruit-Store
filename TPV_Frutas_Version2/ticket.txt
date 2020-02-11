@@ -1,0 +1,4 @@
+Producto: granada	 Precio Unitario: 2	 Peso: 3	 Valor Parcial: 6
+Producto: ciruela	 Precio Unitario: 1,25	 Peso: 5	 Valor Parcial: 6,25
+Producto: mandarina	 Precio Unitario: 1,5	 Peso: 10	 Valor Parcial: 15
+TOTAL: 27,25€

@@ -1,0 +1,12 @@
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\bin\Debug\TPV_Frutas.exe.config
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\bin\Debug\TPV_Frutas.exe
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\bin\Debug\TPV_Frutas.pdb
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.exe
+c:\users\david\documents\visual studio 2015\Projects\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.pdb
+C:\Users\David\Desktop\TPV_Frutas\TPV_Frutas\bin\Debug\TPV_Frutas.exe.config
+C:\Users\David\Desktop\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.exe
+C:\Users\David\Desktop\TPV_Frutas\TPV_Frutas\obj\Debug\TPV_Frutas.pdb
